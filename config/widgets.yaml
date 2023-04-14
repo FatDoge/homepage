@@ -2,11 +2,25 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/en/configs/widgets
 
+- logo:
+    icon: https://avatars.githubusercontent.com/u/20264312?v=4
+
 - resources:
     cpu: true
     memory: true
     disk: /
 
-- search:
-    provider: duckduckgo
-    target: _blank
+- greeting:
+    text_size: l
+    text: MicroData Refinement
+
+- datetime:
+    text_size: l
+    format:
+        dateStyle: short
+        timeStyle: short
+        hour12: true
+
+- openmeteo:
+    units: metric # or imperial
+    cache: 5 # Time in minutes to cache API responses, to stay within limits
