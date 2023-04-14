@@ -7,19 +7,15 @@
         icon: https://raw.githubusercontent.com/Crossbell-Box/xLog/main/public/assets/logo.svg
         href: https://fatdoge.cn
         description: fatdoge.cn
-        ping: https://fatdoge.cn
     - Hexo:
         icon: hexo
         href: https://fatdoge.im
         description: fatdoge.im
-        ping: https://fatdoge.im
     - Github:
         icon: github
         href: https://github.com/fatdoge
         description: '@fatdoge'
-        ping: https://github.com/fatdoge
     - GPTGenius:
         icon: github
         href: https://github.com/GPTGenius/chatgpt-vercel
         description: chatgpt-vercel
-        ping: https://github.com/GPTGenius/chatgpt-vercel
